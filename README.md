@@ -1,4 +1,4 @@
-## Hi there 👋
+## etc etc 
 
 <!--
 **an-npt17/an-npt17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
